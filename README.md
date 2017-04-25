@@ -1,2 +1,2 @@
 # Sharenify1.1
-File
+File sharing web application.
